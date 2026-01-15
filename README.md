@@ -26,7 +26,17 @@ academic research in time series analysis, chaos theory, and stochastic systems.
 
 ## Visual Outputs
 The project includes time series plots, histograms, and autocorrelation
-functions to illustrate system dynamics.
+functions to illustrate system dynamics.## Visualizations
+
+### Time Series Behavior
+![Time Series](autoregressive process in R.png)
+
+### Distribution of Values
+![Histogram](histogram.png)
+
+### Autocorrelation Structure
+![ACF](CDF Plot in R)
+
 
 ## Academic Context
 This project is related to master's level research in Probability Theory
